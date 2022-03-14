@@ -1,7 +1,7 @@
 import React from 'react'
 
 const MyComponent = ({ children, heading }) => {
-  const color = 'red'
+  const color = 'green'
 
   return (
     <section style={{ borderRadius: '1rem', border: `2px solid ${color}` }}>
